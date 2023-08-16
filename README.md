@@ -1,4 +1,4 @@
-# IncreaseServerSpeedWithRedis
+# fastapi-redis
 
 The purpose of this repository is to show the performance advantages that can be gained by implementing redis even in simple rest api.
 
@@ -24,8 +24,8 @@ The **example.sh** file is an example script that shows how a set of tests can b
 ### Get code
 
 ```sh
-git clone https://github.com/luovkle/IncreaseServerSpeedWithRedis.git
-cd IncreaseServerSpeedWithRedis
+git clone https://github.com/luovkle/fastapi-redis.git
+cd fastapi-redis
 ```
 
 ### Create a virtual environment
